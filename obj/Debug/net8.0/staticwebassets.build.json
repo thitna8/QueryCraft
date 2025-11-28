@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Oyfw+xzHG1Yh+kBMkcQS9jCtKtgRHW7gsAbeAAxFFes=",
+  "Source": "PizzaStore.SQLite",
+  "BasePath": "_content/PizzaStore.SQLite",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
