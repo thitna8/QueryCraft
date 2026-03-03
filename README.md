@@ -10,15 +10,6 @@ Lightweight and fast – powered by SQLite, no heavy setup required.
 
 Learning by doing – perfect for improving SQL skills while building a functional database project.
 
-# Project Structure
-QueryCraft/
-│
-├── README.md          # Project documentation
-├── database.db        # SQLite database file
-├── schema.sql         # Table creation scripts
-├── queries.sql        # Example queries and exercises
-└── scripts/           # Optional: helper scripts for testing or populating data
-
 ## Features
 Design and implement custom database tables.
 
